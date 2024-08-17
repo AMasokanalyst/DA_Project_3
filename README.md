@@ -1,4 +1,14 @@
 # Restaurant Rating analysis
+## Table of Content
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Recommendations](#recommendations)
+- [References](#references)
 
 ### Project Overview
 This data analysis project aims to draw out meaningful insight that would aid business entrepreneurs and investors in making informed decisions.
