@@ -3,6 +3,8 @@
 ### Project Overview
 This data analysis project aims to draw out meaningful insight that would aid business entrepreneurs and investors in making informed decisions.
 
+![dashboard image](/Screenshot_17-8-2024_105023_.jpeg)
+
 ### Data Source
 Restaurant rating data: This dataset is made of 6 CSV formated files, with the information about Restaurants in Mexico, thier cuisines and information about their consumers and their preferences.
 - Consumer_Preferences.csv
