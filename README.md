@@ -41,4 +41,4 @@ PowerBI DAX code
 - Restaurant should be easily Accessible especially for consumers that take Public Transport
 
 ### References
-[Tanzil](https://medium.com/@tanzil)
+[Tanzil](https://medium.com/@tanzilo/data-analysis-restaurant-ratings-4add21602d91)
